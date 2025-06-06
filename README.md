@@ -1,0 +1,1 @@
+# blujsetic_kafka_rejo
